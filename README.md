@@ -2,7 +2,7 @@
 
 Este projeto consiste na criação de uma página responsiva de erro 404 utilizando HTML, CSS, JavaScript, Sass e a biblioteca ScrollReveal. O design da página foi baseado em uma videoaula do canal do Bedimcode, utilizando a arte de David Seliger da empresa Core77.
 
-![Página de Erro 404](./img/captura.png)
+![Página de Erro 404](./assets/img/captura.png)
 
 ## Recursos Utilizados
 
