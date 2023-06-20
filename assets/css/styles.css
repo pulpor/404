@@ -7,12 +7,13 @@
 
   /*========== Colors ==========*/
   /*Color mode HSL(hue, saturation, lightness)*/
-  
+
   --first-color: hsla(41, 100%, 50%, 0.952);
   --text-color: hsl(0, 0%, 0%);
 
   /*========== Font and typography ==========*/
   /* .5rem = 8px | 1rem = 16px ...*/
+
   --body-font: 'Space Grotesk', sans-serif;
   --biggest-font-size: 2.375rem;
   --normal-font-size: .938rem;
@@ -55,7 +56,7 @@ img {
   height: auto;
 }
 
-/*=============== REUSABLE CSS CLASSES ===============*/
+/*=============== CSS CLASSES ===============*/
 .container {
   max-width: 1024px;
   margin-left: 1.5rem;
@@ -63,7 +64,7 @@ img {
 }
 
 .main {
-  overflow: hidden; /* For the animations ScrollReveal */
+  overflow: hidden; /* animations */
 }
 
 /*=============== HEADER & NAV ===============*/
@@ -269,7 +270,7 @@ img {
   }
 }
 
-/* For 2K resolutions (2048 x 1152, 2048 x 1536) */
+/* 2K resolutions (2048 x 1152, 2048 x 1536) */
 @media screen and (min-width: 2048px) {
   body {
     zoom: 1.7;
@@ -281,7 +282,7 @@ img {
   }
 }
 
-/* For 4K resolutions (3840 x 2160, 4096 x 2160) */
+/* 4K resolutions (3840 x 2160, 4096 x 2160) */
 @media screen and (min-width: 3840px) {
   body {
     zoom: 3.1;
